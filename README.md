@@ -1,2 +1,2 @@
 # sandbox
-web hook test for slack.
+web hook for slack.
